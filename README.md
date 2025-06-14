@@ -12,7 +12,7 @@ A machine learning project to predict house prices based on various features usi
 - Exploratory Data Analysis (EDA)
 - Model training (Decision Tree, Linear Regression, Random Forest)
 - Model evaluation and comparison
-- Interactive prediction app (optional: Streamlit)
+  - **Interactive prediction app**: [Live Demo](https://housepricepredictiongit-u8poa2gmsb7p3jfwcb4zfg.streamlit.app)  
 
 ## Project Structure
 
